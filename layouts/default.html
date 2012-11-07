@@ -1,0 +1,68 @@
+<!doctype html public "✰">
+<!-- JSConf US 2013 -->
+<!-- May 29th, 30th, and 31st -->
+<!-- Amelia Island, Florida -->
+
+<!-- Made with love by Chris, Laura, Virginia, and yet-to-be-named Williams -->
+<!-- Come join our family reunion as we present a whole new conference experience -->
+
+<!-- More details to come, but for now plan wisely -->
+<!-- Oh, and that is memorial day week, so consider staying all 9 days -->
+<!-- for even more epic JS community building. --> 
+
+<!-- If you want to sponsor, email us at sponsorship@jsconf.us -->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=620px">
+  <!-- gh-pages likes to cache for 24h, let's disable that -->
+  <meta http-equiv="cache-control" content="max-age=0" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="0" />
+  <meta http-equiv="expires" content="Thu, 01 Jan 1970 13:37:00 GMT" />
+  <meta http-equiv="pragma" content="no-cache" />
+  <link rel="shortcut icon" href="img/favicon.png" >
+
+  <title><%= this.title %></title>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" media="screen" href="/css/main.css" >
+</head>
+<body>
+
+  <div id="container">
+    <div id="header">
+
+      <a href="/">
+        <img class="logo" src="/img/jsconf.png" alt="The JSConf US 2013 Logo">
+      </a>
+      
+    </div>
+
+    <div id="content">
+      <%- page %>
+    </div>
+
+    <div id="footer">
+      <div class="columns">
+        <div class="credits">
+          <p class="copyright">Copyright &copy; Iterative Designs 2012</p>
+          <p class="authors">
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3306079-15']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
+</html>
