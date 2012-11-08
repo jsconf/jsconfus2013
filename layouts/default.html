@@ -26,29 +26,107 @@
   <title><%= this.title %></title>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" media="screen" href="/css/main.css" >
+  <script src='/js/jquery.min.js'></script>
+  <script src='/js/main.js'></script>
 </head>
 <body>
 
-  <div id="container">
-    <div id="header">
-
-      <a href="/">
-        <img class="logo" src="/img/jsconf.png" alt="The JSConf US 2013 Logo">
-      </a>
-      
-    </div>
-
-    <div id="content">
-      <%- page %>
-    </div>
-
-    <div id="footer">
-      <div class="columns">
-        <div class="credits">
-          <p class="copyright">Copyright &copy; Iterative Designs 2012</p>
-          <p class="authors">
-          </p>
+  <div id="frame">
+    <div id='shell-background'>
+      <div id='content' class='clearfix'>
+        <div id='left'>
+          <div id='left-content'>
+            <a href="/">
+              <img src="/img/nav-logo.png" alt="JSConf US 2013, the best damn conference ever. period. believe it." height="141" width="161"/>
+            </a>
+            <hr/>
+            <ul class='nav'>
+              <li><a href="/schedule">Schedule</a></li>
+              <li><a href="/#venue">Venue</a></li>
+              <li><a href="/speakers">Speakers</a></li>
+              <li><a href="/sponsors">Sponsor</a></li>
+              <li><a href="/about">About</a></li>
+              <li><a href="/tickets">Tickets</a></li>
+              <li><a href="http://www.omnihotels.com/FindAHotel/AmeliaIsland/MeetingFacilities/JSConference5.aspx">Hotel Room</a></li>
+            </ul>
+            <hr/>
+            <div id='social' class='clearfix'>
+              <a href="http://twitter.com/jsconf" id='twitter'>
+                Twitter
+              </a>
+              <a href="https://www.facebook.com/groups/jsconf/" id='facebook'>
+                Facebook
+              </a>
+              <a href="https://plus.google.com/b/113865250654556332848/113865250654556332848/posts" id='gplus'>
+                Google Plus
+              </a>
+            </div>
+            <hr/>
+            <div id='countdown'>
+              <div id='days'>
+                <span></span> DAYS
+              </div>
+              <div id='daystep'>
+                <span id='hours'></span>H 
+                <span id='minutes'></span>M 
+                <span id='seconds'></span>S 
+              </div>
+            </div>
+            <hr/>
+            <div id='heaven'>
+              <div id='weather'>
+              </div>
+              <div id='temperature'>
+                <span id='high'>
+                  H<span></span>&deg;
+                </span>
+                &nbsp;&nbsp;&nbsp;
+                <span id='low'>
+                  L<span></span>&deg;
+                </span>
+              </div>
+              <div id='location'>
+                Amelia <span>FUCKING</span> Island, FL
+              </div>
+            </div>
+          </div>
         </div>
+        <div id='right'>
+          <div id='header'>
+            <a href="/tickets" id='regnow'>
+              Seriously Why The Fuck Would You Go To Any Other Conference?
+            </a>
+            <div id='twitter-pull'>
+              <img src="/img/round-js.png" alt="JS"/>
+              <div id='tweet'>
+              </div>
+            </div>
+          </div>
+          <%- page %>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="footer">
+    <div>
+      <a href="/"><img src="/img/footer-logo.png" alt="JSConf US 2013" height="82" width="96" /></a>
+    </div>
+    <div class='nav'>
+      <a href="/">Home</a>  |  
+      <a href="/news">News</a>  |  
+      <a href="/schedule">Schedule</a>  |  
+      <a href="/venue">Venue</a>  |  
+      <a href="/speakers">Speakers</a>  |  
+      <a href="/sponsors">Sponsors</a>  |  
+      <a href="/about">About</a>  |  
+      <a href="/tickets">Tickets</a> |  
+      <a href="http://www.omnihotels.com/FindAHotel/AmeliaIsland/MeetingFacilities/JSConference5.aspx">Hotel Room</a>
+    </div>
+    <div class="columns">
+      <div class="credits">
+        <p class="copyright">Copyright &copy; Iterative Designs 2012</p>
+        <p class="authors">
+        </p>
       </div>
     </div>
   </div>

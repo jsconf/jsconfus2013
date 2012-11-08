@@ -26,6 +26,3 @@ We wanted to share all of this, because it is easy to forget when attending a co
 
 As for what JSConf US 2013 will look like, stay tuned. This year, we are trying to share more about the process we go through in order to make JSConf happen. We hope this helps others in creating different events and allows those of you who don't run events to see just what it takes to run an event. We are tremendously excited about our new concept for a conference and are pretty sure you will be just as excited as we roll out details. 
 
-
-## More Details
-* [Call For Speakers](/call-for-speakers)

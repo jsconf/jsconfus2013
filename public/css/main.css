@@ -24,8 +24,106 @@ textarea{overflow:auto;vertical-align:top;}
 
 /* ours */
 
-body { font-family: 'Open Sans', sans-serif;  font-size: 0.9em; margin: 0px; padding: 0px;}
-#container { margin: 0px 10%;}
-#header { text-align: center; margin-bottom: 40px;}
-#footer { text-align: center; font-size: 10px; margin: 40px 0px; color:#333; border-top: 1px solid #ccc; padding-top: 40px;}
+body { font-family: 'Open Sans', sans-serif;  font-size: 0.9em; margin: 0px; padding: 0px; background: white;}
+#frame {  background: url(/img/background.png) top center repeat; padding: 0px 0px 40px 0px; margin: 0px;}
 a, a:link, a:visited { color: #277085;}
+#shell-background { background: url(/img/shell-background.jpg) top center no-repeat; min-height:857px; width:100%; }
+#footer { text-align: center; font-size: 10px; margin:0px 0px 200px; color:#333; background: url(/img/footer-fold.png) top left repeat-x; padding-top: 40px;  color:#666666;}
+#footer .nav { margin: 24px 0px;}
+#footer .nav a, #footer .nav a:link, #footer .nav a:visited { color: 183446; text-decoration: none;}
+#content { width: 990px; margin: 0px auto;}
+#left {  width: 228px; float: left; background: url(/img/left-footer.png) bottom left no-repeat; padding-bottom:24px;}
+#left-content { 
+	background: url(/img/left-background.png) top left repeat-y;
+	padding-left:19px;
+	padding-bottom:20px;
+}
+#right {  margin-left:228px; width: 756px;}
+#left hr { background: url(/img/left-hr.png) top left no-repeat; height:4px; width: 161px; border: 0px; margin: 0px; padding: 0px;}
+#left ul.nav { list-style: none; margin: 0px; padding: 20px 0px; font-style:italic; font-weight: bold; font-size:16px;}
+#left .nav a { color: #256f84; text-decoration: none;}
+#left .nav li { padding-left: 36px; height:31px; line-height:31px; background: url(/img/nav-background.png) top left no-repeat; }
+#left .nav li:hover { background-position: 0px -62px;}
+#left .nav li.active { background-position: 0px -31px;}
+.nav .active a,.nav .active a:link,.nav .active a:visited  { color: #ffaf10; }
+#social { margin: 20px 0px 20px 27px;}
+
+#social a { display:block; float:left; margin-right: 13px; height: 26px; width: 27px; text-indent: -999px; background: url(/img/social-icons.png); overflow:hidden;}
+#social a#gplus { background-position: -80px 0px;}
+#social a#twitter { background-position: -40px 0px;}
+#social a#facebook { background-position: 0px 0px;}
+
+#social a#gplus:hover { background-position: -80px -52px;}
+#social a#twitter:hover { background-position: -40px -52px;}
+#social a#facebook:hover { background-position: 0px -52px;}
+
+
+#countdown {  font-weight: bold; margin:25px 0px;}
+#days { font-size:30px; text-align: center; color:#256f84; width: 161px;}
+#daystep { font-size: 22px; text-align: center; color: #8da9a6;width: 161px;}
+#temperature{ font-size:24px; font-weight: bold;}
+#high { color:#ff9c00;}
+#low { color: #797979;}
+#heaven { text-align: center; width:161px;}
+#location{ font-size: 14px;  font-weight: bold; color:#333333;}
+#location span { display: none;}
+#weather { height: 132px;}
+
+#regnow { display:block; float: right; height:84px; width:252px; background: url(/img/reg.png) top left no-repeat; text-indent: -999px; overflow:hidden; margin-left: 19px;}
+#twitter-pull { padding-top: 14px; height:84px;}
+
+
+#hero { height:505px; width:754px; background: url(/img/hero.png) top left no-repeat;} 
+
+#hero div { width:130px; height: 135px; border: 1px solid white; position:absolute;}
+#hero #pic1 { margin-top: 16px; margin-left: 11px; }
+#hero #pic2 { margin-top: 9px; margin-left: 161px; }
+#hero #pic3 { margin-top: 16px; margin-left: 312px; }
+#hero #pic4 { margin-top: 14px; margin-left: 462px; }
+#hero #pic5 { margin-top: 13px; margin-left: 612px; }
+#hero #pic6 { margin-top: 323px; margin-left: 12px; }
+#hero #pic7 { margin-top: 315px; margin-left: 160px; }
+#hero #pic8 { margin-top: 328px; margin-left: 310px; }
+#hero #pic9 { margin-top: 325px; margin-left: 461px; }
+#hero #pic10 { margin-top: 317px; margin-left: 612px; }
+
+
+
+#content h1 {
+	text-indent: -999px;
+	overflow: hidden;
+	width: 756px;
+	height:66px;
+}
+#content { color: #3c1f0a;}
+#schedule h1 { background: url(/img/schedule-header.png) top left no-repeat;}
+#venue h1 { background: url(/img/venue-header.png) top left no-repeat;}
+#about h1 { background: url(/img/about-header.png) top left no-repeat;}
+#speakers h1 { background: url(/img/speakers-header.png) top left no-repeat;}
+#sponsors h1 { background: url(/img/sponsors-header.png) top left no-repeat;}
+
+
+.left { float: left;}
+.right { float: right;}
+
+
+#venue .clearfix { margin: 20px 0px;}
+#venue .left, #about .left { margin-right: 42px; margin-bottom:42px;}
+#venue .right { margin-left: 42px; margin-bottom:42px;}
+#content h2 { color:#3c1f0a; font-weight:normal; font-size: 24px; line-height:30px; height:30px; margin: 0px; padding: 0px; margin-bottom:16px;}
+#about .clearfix { margin-bottom: 40px;}
+#about p { margin: 0px 0px 12px; padding: 0px; font-size:80%;}
+
+#about ul { list-style:none; font-size:80%;}
+#about ul li { margin-bottom: 6px;}
+
+
+#plantation .meat { margin-right:	218px;}
+#plantation h3 { font-weight: bold; font-size: 26px;}
+
+.yellow-link a, .yellow-link a:visited, .yellow-link a:link {background: #ffe13c; text-decoration: none; color:#3c1f0a;}
+
+#amelia-island { font-size: 90%;}
+#amelia-island .meat { margin-left:  458px;}
+
+#get-me-there { background: #ffe13c; text-decoration: underline; color:#3c1f0a; padding: 8px; text-align: center; display:block; font-weight: bold; font-size: 20px;}
