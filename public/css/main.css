@@ -111,19 +111,24 @@ a, a:link, a:visited { color: #277085;}
 #venue .left, #about .left { margin-right: 42px; margin-bottom:42px;}
 #venue .right { margin-left: 42px; margin-bottom:42px;}
 #content h2 { color:#3c1f0a; font-weight:normal; font-size: 24px; line-height:30px; height:30px; margin: 0px; padding: 0px; margin-bottom:16px;}
+
+#content h4 { color:#3c1f0a; font-weight:normal; font-size: 18px; line-height:20px; height:20px; margin: 0px; padding: 0px; margin-bottom:0px;}
 #about .clearfix { margin-bottom: 40px;}
 #about p { margin: 0px 0px 12px; padding: 0px; font-size:80%;}
 
 #about ul { list-style:none; font-size:80%;}
 #about ul li { margin-bottom: 6px;}
 
-
+#plantation { padding-bottom: 24px;}
 #plantation .meat { margin-right:	218px;}
-#plantation h3 { font-weight: bold; font-size: 26px;}
+#plantation h3 { font-weight: bold; font-size: 26px; margin-bottom: 8px; height:26px; line-height:26px; }
+#plantation h3 a { padding: 8px;}
+#plantation .caption { font-size:90%;  padding: 8px; padding-bottom: 0px;}
 
 .yellow-link a, .yellow-link a:visited, .yellow-link a:link {background: #ffe13c; text-decoration: none; color:#3c1f0a;}
 
 #amelia-island { font-size: 90%;}
 #amelia-island .meat { margin-left:  458px;}
+#amelia-island p { margin-top: 0px;}
 
 #get-me-there { background: #ffe13c; text-decoration: underline; color:#3c1f0a; padding: 8px; text-align: center; display:block; font-weight: bold; font-size: 20px;}

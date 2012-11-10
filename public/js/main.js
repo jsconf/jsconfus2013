@@ -1,4 +1,4 @@
-var TRIGGER = 1369746000000;
+var TRIGGER = 1369746000000; // set to May 28th to include opening events
 var SECOND = 1000;
 var MINUTE = 60000;
 var HOUR = 3600000;
