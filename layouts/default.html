@@ -14,7 +14,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=620px">
+  <meta name="viewport" content="width=620">
   <!-- gh-pages likes to cache for 24h, let's disable that -->
   <meta http-equiv="cache-control" content="max-age=0" />
   <meta http-equiv="cache-control" content="no-cache" />
@@ -30,7 +30,7 @@
   <script src='/js/main.js'></script>
 </head>
 <body>
-
+  <a href='#frame' id='rtt'>Return to Top</a>
   <div id="frame">
     <div id='shell-background'>
       <div id='content' class='clearfix'>
@@ -42,11 +42,12 @@
             <hr/>
             <ul class='nav'>
               <!-- <li><a href="/schedule">Schedule</a></li> -->
-              <li><a href="/#venue">Venue</a></li>
-              <li><a href="/#speakers">Speakers</a></li>
-              <li><a href="/#sponsors">Sponsor</a></li>
-              <li><a href="/#about">About</a></li>
-              <li><a href="/tickets">Tickets</a></li>
+              <li class='news' ><a href="/news">News</a></li>
+              <li class='venue'><a href="/#venue">Venue</a></li>
+              <li class='speakers'><a  href="/#speakers">Speakers</a></li>
+              <li class='sponsors'><a href="/#sponsors">Sponsors</a></li>
+              <li class='about'><a href="/#about">About</a></li>
+              <li><a class='tickets' href="/tickets">Tickets</a></li>
               <li><a href="http://www.omnihotels.com/FindAHotel/AmeliaIsland/MeetingFacilities/JSConference5.aspx">Hotel Rooms</a></li>
             </ul>
             <hr/>
@@ -102,7 +103,9 @@
               </div>
             </div>
           </div>
+          <div id='<%= this.id %>'>
           <%- page %>
+        </div>
         </div>
       </div>
     </div>
@@ -112,7 +115,7 @@
       <a href="/"><img src="/img/footer-logo.png" alt="JSConf US 2013" height="82" width="96" /></a>
     </div>
     <div class='nav'>
-      <a href="/">Home</a>  |  
+      <a href="/" >Home</a>  |  
       <a href="/news">News</a>  |  
       <a href="/schedule">Schedule</a>  |  
       <a href="/venue">Venue</a>  |  
@@ -143,6 +146,8 @@
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
+
+    activateMenu('<%= this.id %>');
   </script>
 </body>
 </html>

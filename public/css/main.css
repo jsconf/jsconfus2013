@@ -89,11 +89,13 @@ a, a:link, a:visited { color: #277085;}
 
 
 
-#content h1 {
+#front-page h1 {
 	text-indent: -999px;
 	overflow: hidden;
 	width: 756px;
 	height:66px;
+	margin-bottom:12px;
+	margin-top: 50px;
 }
 #content { color: #3c1f0a;}
 #schedule h1 { background: url(/img/schedule-header.png) top left no-repeat;}
@@ -132,3 +134,19 @@ a, a:link, a:visited { color: #277085;}
 #amelia-island p { margin-top: 0px;}
 
 #get-me-there { background: #ffe13c; text-decoration: underline; color:#3c1f0a; padding: 8px; text-align: center; display:block; font-weight: bold; font-size: 20px;}
+
+a#rtt { position: fixed; bottom: 12px; right: 12px; display: block; font-size: 12px;background: #ffe13c; text-decoration: none; color:#3c1f0a; padding: 4px;}
+
+
+#news h2 { font-weight: bold; margin-top: 24px; margin-bottom: 4px; }
+#news p { margin-top: 4px;}
+#news hr { margin: 24px 0px;}
+
+
+.curator { width: 50%; float:left;}
+#about .curator img.left { margin-right: 6px; margin-bottom: 6px;}
+
+.curator .headline { font-size: 24px; margin-left: 120px;}
+.curator .social { font-size: 16px; line-height: 21px; height: 21px; margin: 4px 0px 8px 120px;}
+.curator .social a { text-decoration: none}
+#about .curator p { margin-left: 120px;}
