@@ -23,7 +23,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
 textarea{overflow:auto;vertical-align:top;}
 
 /* ours */
-
+#content { color: #3c1f0a;}
 body { font-family: 'Open Sans', sans-serif;  font-size: 0.9em; margin: 0px; padding: 0px; background: white;}
 #frame {  background: url(/img/background.png) top center repeat; padding: 0px 0px 40px 0px; margin: 0px;}
 a, a:link, a:visited { color: #277085;}
@@ -76,33 +76,41 @@ a, a:link, a:visited { color: #277085;}
 #hero { height:505px; width:754px; background: url(/img/hero.png) top left no-repeat;} 
 
 #hero div { width:130px; height: 135px; border: 1px solid white; position:absolute;}
-#hero #pic1 { margin-top: 16px; margin-left: 11px; }
-#hero #pic2 { margin-top: 9px; margin-left: 161px; }
-#hero #pic3 { margin-top: 16px; margin-left: 312px; }
-#hero #pic4 { margin-top: 14px; margin-left: 462px; }
-#hero #pic5 { margin-top: 13px; margin-left: 612px; }
-#hero #pic6 { margin-top: 323px; margin-left: 12px; }
-#hero #pic7 { margin-top: 315px; margin-left: 160px; }
-#hero #pic8 { margin-top: 328px; margin-left: 310px; }
-#hero #pic9 { margin-top: 325px; margin-left: 461px; }
-#hero #pic10 { margin-top: 317px; margin-left: 612px; }
+#pic1 { margin-top: 16px; margin-left: 11px; }
+#pic2 { margin-top: 9px; margin-left: 161px; }
+#pic3 { margin-top: 16px; margin-left: 312px; }
+#pic4 { margin-top: 14px; margin-left: 462px; }
+#pic5 { margin-top: 13px; margin-left: 612px; }
+#pic6 { margin-top: 323px; margin-left: 12px; }
+#pic7 { margin-top: 315px; margin-left: 160px; }
+#pic8 { margin-top: 328px; margin-left: 310px; }
+#pic9 { margin-top: 325px; margin-left: 461px; }
+#pic10 { margin-top: 317px; margin-left: 612px; }
 
 
 
-#front-page h1 {
-	text-indent: -999px;
-	overflow: hidden;
+h1 {
+	line-height: 66px;
+	height: 66px;
+	display:block; 
 	width: 756px;
-	height:66px;
 	margin-bottom:12px;
 	margin-top: 50px;
+	font-family: 'Molle', helvetica;
+	font-weight: 400;
+	font-style: italic;
+	color:#326F83;
+	background: url(/img/header.png) top left no-repeat;
 }
-#content { color: #3c1f0a;}
-#schedule h1 { background: url(/img/schedule-header.png) top left no-repeat;}
-#venue h1 { background: url(/img/venue-header.png) top left no-repeat;}
-#about h1 { background: url(/img/about-header.png) top left no-repeat;}
-#speakers h1 { background: url(/img/speakers-header.png) top left no-repeat;}
-#sponsors h1 { background: url(/img/sponsors-header.png) top left no-repeat;}
+h1 i { 
+	padding-left: 60px;
+	display: block;
+}
+#schedule h1 i { background: url(/img/schedule.png) center left no-repeat;}
+#venue h1 i  { background: url(/img/venue.png) center left no-repeat;}
+#about h1 i  { background: url(/img/about.png) center left no-repeat;}
+#speakers h1 i  { background: url(/img/speakers.png) center left no-repeat;}
+#sponsors h1 i  { background: url(/img/sponsors.png) center left no-repeat;}
 
 
 .left { float: left;}
@@ -127,13 +135,15 @@ a, a:link, a:visited { color: #277085;}
 #plantation h3 a { padding: 8px;}
 #plantation .caption { font-size:90%;  padding: 8px; padding-bottom: 0px;}
 
-.yellow-link a, .yellow-link a:visited, .yellow-link a:link {background: #ffe13c; text-decoration: none; color:#3c1f0a;}
 
 #amelia-island { font-size: 90%;}
 #amelia-island .meat { margin-left:  458px;}
 #amelia-island p { margin-top: 0px;}
 
-#get-me-there { background: #ffe13c; text-decoration: underline; color:#3c1f0a; padding: 8px; text-align: center; display:block; font-weight: bold; font-size: 20px;}
+.yellow-link a, .yellow-link a:visited, .yellow-link a:link {background: #ffe13c; text-decoration: none; color:#256f84; font-weight:bold;font-family: 'Molle'; font-style: italic; font-weight: 700;}
+#get-me-there { background: #ffe13c; text-decoration: underline; color:#256f84; text-decoration:none; font-family: 'Molle'; font-style: italic; font-weight: 700; padding: 8px; text-align: center; display:block; font-weight: bold; font-size: 20px;}
+.yellow-link a:hover, #get-me-there:hover { background: black; color:white;}
+
 
 a#rtt { position: fixed; bottom: 12px; right: 12px; display: block; font-size: 12px;background: #ffe13c; text-decoration: none; color:#3c1f0a; padding: 4px;}
 
@@ -143,10 +153,41 @@ a#rtt { position: fixed; bottom: 12px; right: 12px; display: block; font-size: 1
 #news hr { margin: 24px 0px;}
 
 
-.curator { width: 50%; float:left;}
+.curator { width: 46%; float:left; margin:0px 2%;}
 #about .curator img.left { margin-right: 6px; margin-bottom: 6px;}
 
 .curator .headline { font-size: 24px; margin-left: 120px;}
 .curator .social { font-size: 16px; line-height: 21px; height: 21px; margin: 4px 0px 8px 120px;}
 .curator .social a { text-decoration: none}
 #about .curator p { margin-left: 120px;}
+
+#timeline {background:url(/img/timeline.png) top left no-repeat; height:510px;width:420px; float: left; margin-right:42px;}
+#timeline a{ display: block; font-weight:600; font-size:12px; text-decoration: none; color:#4b3b26; padding:6px 25px;}
+#timeline .events { margin-left: 187px; padding-top:4px;}
+.year-block { margin-bottom: 40px; padding-top: 4px; }
+#timeline .year {
+	width:124px;
+	text-align: right;float: left;
+ font-weight: bold; font-size: 20px; color:#5c9596; padding-top:17px;}
+ #timeline #cloudy .year { padding-top: 0px;}
+
+#timeline .tagline { font-weight: bold; font-size:11px; color: #83babb; margin-top: 4px;}
+#dysentery .events { padding-top: 3px;}
+#arrrrr .events { padding-top: 2px;}
+#yeehaw .events { padding-top: 1px;}
+#yeehaw .year { padding-top: 47px;}
+#yeehaw.year-block  { margin-bottom:35px;}
+#reunion .year { padding-top: 6px;}
+#reunion a { color: white;}
+
+
+
+#history {background:url(/img/history.png) top left no-repeat; height:470px;width:252px; float: left; margin-right:42px;}
+
+#history div { width:106px; height: 110px; border: 1px solid white; position:absolute;}
+#history1 { margin-top: 7px; margin-left:9px;}
+#history2 { margin-top: 7px; margin-left: 133px;}
+#history3 { margin-top: 164px; margin-left: 8px;}
+#history4 { margin-top: 164px; margin-left: 133px;}
+#history5 { margin-top: 323px; margin-left: 9px;}
+#history6 { margin-top: 323px; margin-left: 133px;}
