@@ -8,6 +8,13 @@ this.id = 'news';
 # News
 
 
+## [Meet The New JSConf US](/meet-jsconf)
+
+The 2013 edition of JSConf US will feature a whole new event organization and style. We have been working through many of the details in order to provide you with what we believe will be a tremendously inspirational, educational, and social event unlike any other. Read on for more details.
+
+
+- - -
+
 ## [JSConf US 2013 Tickets](/how-to-ticket)
 
 One of the most exciting and often complained about items of JSConf is the scarcity of tickets and the process of procuring them. This is a natural problem that occurs with each successful year of running JSConf as more people both become interested in JS and aware of JSConf. This year we are trying out a completely new way of registering for tickets for JSConf US 2103.

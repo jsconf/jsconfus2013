@@ -75,7 +75,7 @@ a, a:link, a:visited { color: #277085;}
 
 #hero { height:505px; width:754px; background: url(/img/hero.png) top left no-repeat;} 
 
-#hero div { width:130px; height: 135px; border: 1px solid white; position:absolute;}
+#hero div { width:130px; height: 135px; border: 1px solid white; position:absolute;background-position: center center}
 #pic1 { margin-top: 16px; margin-left: 11px; }
 #pic2 { margin-top: 9px; margin-left: 161px; }
 #pic3 { margin-top: 16px; margin-left: 312px; }
@@ -87,6 +87,16 @@ a, a:link, a:visited { color: #277085;}
 #pic9 { margin-top: 325px; margin-left: 461px; }
 #pic10 { margin-top: 317px; margin-left: 612px; }
 
+#pic1-alt { margin-top: 16px; margin-left: 11px; }
+#pic2-alt { margin-top: 9px; margin-left: 161px; }
+#pic3-alt { margin-top: 16px; margin-left: 312px; }
+#pic4-alt { margin-top: 14px; margin-left: 462px; }
+#pic5-alt { margin-top: 13px; margin-left: 612px; }
+#pic6-alt { margin-top: 323px; margin-left: 12px; }
+#pic7-alt { margin-top: 315px; margin-left: 160px; }
+#pic8-alt { margin-top: 328px; margin-left: 310px; }
+#pic9-alt { margin-top: 325px; margin-left: 461px; }
+#pic10-alt { margin-top: 317px; margin-left: 612px; }
 
 
 h1 {
@@ -184,10 +194,24 @@ a#rtt { position: fixed; bottom: 12px; right: 12px; display: block; font-size: 1
 
 #history {background:url(/img/history.png) top left no-repeat; height:470px;width:252px; float: left; margin-right:42px;}
 
-#history div { width:106px; height: 110px; border: 1px solid white; position:absolute;}
+#history div { width:106px; height: 110px; border: 1px solid white; position:absolute; background-position: center center}
 #history1 { margin-top: 7px; margin-left:9px;}
 #history2 { margin-top: 7px; margin-left: 133px;}
 #history3 { margin-top: 164px; margin-left: 8px;}
 #history4 { margin-top: 164px; margin-left: 133px;}
 #history5 { margin-top: 323px; margin-left: 9px;}
 #history6 { margin-top: 323px; margin-left: 133px;}
+#history1-alt { margin-top: 7px; margin-left:9px;}
+#history2-alt { margin-top: 7px; margin-left: 133px;}
+#history3-alt { margin-top: 164px; margin-left: 8px;}
+#history4-alt { margin-top: 164px; margin-left: 133px;}
+#history5-alt { margin-top: 323px; margin-left: 9px;}
+#history6-alt { margin-top: 323px; margin-left: 133px;}
+
+#twitter-pull img { float:left; }
+#tweet { margin-left: 60px; color:#666666; font-size: 12px; padding-top: 4px;}
+#tweet ul, #tweet li { list-style: none; margin: 0px; padding: 0px;}
+
+#header { height: 90px;}
+
+#weather { background-position: center center; background-repeat: no-repeat}
