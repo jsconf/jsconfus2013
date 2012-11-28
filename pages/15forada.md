@@ -1,3 +1,10 @@
+<%
+this.layout = 'default';
+this.title = 'JSConf US 2013 :: The #15ForAda Campaign';
+this.id = 'news';
+%>
+
+
 # The #15ForAda Campaign
 
 We, the entire JSConf organizer family, care deeply about the tech community at large. From the start, we have had a strong mission component to our US events. We want to be an example for how conferences can be both fun and impactful. In 2010, JSConf US raised and donated over $3,000 to gender, racial, and financial diversity outreach programs in the computing sciences with our [JSConf Diversity In Computing Drive](http://news.jsconf.com/the-community-that-cares). In 2012, we helped raise and donate over $25,000 to [Feeding America](http://feedingamerica.org/) as part of the [TeamJS initiative](http://www.crowdrise.com/TeamJS). We have a great track record for not just putting on amazing conferences, but also for doing it in a fashion that improves the world in which we live. This is something that we are filled with pride about and look forward to every year.
