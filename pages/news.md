@@ -12,6 +12,7 @@ this.id = 'news';
 
 Read all about support and sponsorship of the Ada Initiative as part of the JSConf US 2013 ticket sales. We want to encourage people to help by tweeting/facebook/g+'ing the reasons they support diversity in computing with the hashtag #15forada. 
 
+- - -
 
 ## [Meet The New JSConf US](/meet-jsconf)
 
