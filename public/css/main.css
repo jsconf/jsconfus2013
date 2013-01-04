@@ -215,3 +215,19 @@ a#rtt { position: fixed; bottom: 12px; right: 12px; display: block; font-size: 1
 #header { height: 90px;}
 
 #weather { background-position: center center; background-repeat: no-repeat}
+.speaker {padding-bottom: 32px; margin-bottom: 32px; border-bottom: 1px solid #246f84;}
+.speaker .bio, .speaker .talk, .speaker .name { margin-left: 134px;}
+
+.speaker .bio, .speaker .talk { font-size: 13px; line-height: 1.6;}
+.speaker .bio .title, .speaker .talk .title { font-weight: bold; margin-top: 6px; font-size: 16px;}
+
+.speaker .name { font-size: 24px; font-weight: bold; line-height:36px; vertical-align: middle; margin-bottom: 12px;}
+.speaker .name a.twitter { font-size: 16px; background: url(/img/bird.png) center left no-repeat; text-decoration: none; padding-left: 30px; margin-left: 30px; font-weight: normal; vertical-align: middle; margin-top:-4px;}
+#fabbro { background: url(/img/speakers/fabbro.png) -120px 0px no-repeat;}
+#murphey { background: url(/img/speakers/murphey.png) -120px 0px no-repeat;}
+#croll { background: url(/img/speakers/croll.png) -120px 0px no-repeat;}
+#sharp { background: url(/img/speakers/sharp.png) -120px 0px no-repeat;}
+#velez { background: url(/img/speakers/velez.png) -120px 0px no-repeat;}
+#det { background: url(/img/speakers/det.png) -120px 0px no-repeat;}
+
+body .speaker.hover {background-position: 15px -136px !important;  }

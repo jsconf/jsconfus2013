@@ -402,5 +402,10 @@ $(function () {
         cache: true,
         jsonpCallback: 'setWeather'
     });
+    $(".speaker").hover(function () {
+    	$(this).addClass("hover");
+    }, function () { 
+    	$(this).removeClass("hover");
+    })
 
 });
