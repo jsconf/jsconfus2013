@@ -240,9 +240,12 @@ body .speaker.hover {background-position: 15px -136px !important;  }
 .sponsor-block { height: 200px; width: 200px;  margin:12px 25px; display: block; float: left; text-indent: -200px; overflow: hidden; background-position: center center; background-repeat: no-repeat; opacity: 0.7;}
 .sponsor-block:hover { opacity: 1.0;}
 .sponsor-block#bitovi { background-image: url(/img/sponsors/bitovi.png);}
+.sponsor-block#bloomberg { background-image: url(/img/sponsors/bloomberg.png);}
 .sponsor-block#yammer { background-image: url(/img/sponsors/yammer.png);}
 .sponsor-block#nodejitsu { background-image: url(/img/sponsors/nodejitsu.png);}
 .sponsor-block#twilio { background-image: url(/img/sponsors/twilio.png);}
 .sponsor-block#springsource { background-image: url(/img/sponsors/springsource.png);}
+.sponsor-block#azure { background-image: url(/img/sponsors/azure.png);}
+.sponsor-block#iceddev { background-image: url(/img/sponsors/iceddev.png);}
 
 
