@@ -235,6 +235,14 @@ a#rtt { position: fixed; bottom: 12px; right: 12px; display: block; font-size: 1
 #sharp { background: url(/img/speakers/sharp.png) -120px 0px no-repeat;}
 #velez { background: url(/img/speakers/velez.png) -120px 0px no-repeat;}
 #det { background: url(/img/speakers/det.png) -120px 0px no-repeat;}
+#dupont { background: url(/img/speakers/dupont.png) -120px 0px no-repeat;}
+#higgins { background: url(/img/speakers/higgins.png) -120px 0px no-repeat;}
+#farrell { background: url(/img/speakers/farrell.png) -120px 0px no-repeat;}
+#deckelman { background: url(/img/speakers/deckelman.png) -120px 0px no-repeat;}
+#lee { background: url(/img/speakers/lee.png) -120px 0px no-repeat;}
+#yayquery { background: url(/img/speakers/yayquery.png) -120px 0px no-repeat;}
+#eich { background: url(/img/speakers/eich.png) -120px 0px no-repeat;}
+
 
 body .speaker.hover {background-position: 15px -136px !important;  }
 .sponsor-block { height: 200px; width: 200px;  margin:12px 25px; display: block; float: left; text-indent: -200px; overflow: hidden; background-position: center center; background-repeat: no-repeat; opacity: 0.7;}
