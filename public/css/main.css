@@ -242,6 +242,10 @@ a#rtt { position: fixed; bottom: 12px; right: 12px; display: block; font-size: 1
 #lee { background: url(/img/speakers/lee.png) -120px 0px no-repeat;}
 #yayquery { background: url(/img/speakers/yayquery.png) -120px 0px no-repeat;}
 #eich { background: url(/img/speakers/eich.png) -120px 0px no-repeat;}
+#daly { background: url(/img/speakers/daly.png) -120px 0px no-repeat;}
+
+#schmidt { background: url(/img/speakers/schmidt.png) -120px 0px no-repeat;}
+
 
 
 body .speaker.hover {background-position: 15px -136px !important;  }
