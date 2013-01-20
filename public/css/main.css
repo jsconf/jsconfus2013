@@ -243,8 +243,9 @@ a#rtt { position: fixed; bottom: 12px; right: 12px; display: block; font-size: 1
 #yayquery { background: url(/img/speakers/yayquery.png) -120px 0px no-repeat;}
 #eich { background: url(/img/speakers/eich.png) -120px 0px no-repeat;}
 #daly { background: url(/img/speakers/daly.png) -120px 0px no-repeat;}
-
+#sullivan { background: url(/img/speakers/sullivan.png) -120px 0px no-repeat;}
 #schmidt { background: url(/img/speakers/schmidt.png) -120px 0px no-repeat;}
+#wittens { background: url(/img/speakers/wittens.png) -120px 0px no-repeat;}
 
 
 
@@ -259,6 +260,9 @@ body .speaker.hover {background-position: 15px -136px !important;  }
 .sponsor-block#springsource { background-image: url(/img/sponsors/springsource.png);}
 .sponsor-block#azure { background-image: url(/img/sponsors/azure.png);}
 .sponsor-block#iceddev { background-image: url(/img/sponsors/iceddev.png);}
+.sponsor-block#ie { background-image: url(/img/sponsors/ie.png);}
+.sponsor-block#adobe { background-image: url(/img/sponsors/adobe.png);}
+.sponsor-block#esri { background-image: url(/img/sponsors/esri.png);}
 
 .sponsor-block#mozilla { background-image: url(/img/sponsors/mozilla.png);}
 

@@ -335,7 +335,9 @@ function setWeather(data) {
         title: info.text
     });
     var url = "url(/img/weather/"+info.code+".png)";
-    console.log(url)
+   	if ([17, 18, 20,26,27,28,29,30,31,32,38,39,4,40,41,42,43,44,9].indexOf(info.code) >=0) {
+   		url = "url(/img/weather/30.png)";
+   	}
     $('#weather').css('background-image', url); //info.code<img src="http://l.yimg.com/a/i/us/we/52/' + info.code + '.gif" height="130" title="' + info.text + '" />');
     $("#high span").html(info.high);
 	$("#low span").html(info.low);
