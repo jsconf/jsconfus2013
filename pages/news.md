@@ -7,6 +7,11 @@ this.id = 'news';
 
 # News
 
+## [Changing the Game - Results Of #15ForAda](/5kforada)
+
+[JSConf US 2013](http://2013.jsconf.us) attendees and organizers raised $5,000 for the Ada Initiative, who advised the organizers on how to attract more women and improve diversity overall. Attendees contributed $2,550 directly, and the JSConf organizational team matched 50% of attendee donations, as well as donating a further $1,175 to bring the total to $5,000. The JSConf organizers hope to set a strong precedent for other conferences by becoming an active agent for positive social change. [Read all about how, why, and the outcome from our #5kForAda Campaign](/5kforada).
+
+- - -
 
 ## [The #15ForAda Campaign](/15forada)
 
