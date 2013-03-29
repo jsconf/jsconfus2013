@@ -278,6 +278,7 @@ body .speaker.hover {background-position: 15px -136px !important;  }
 .sponsor-block#condenast { background-image: url(/img/sponsors/condenast.png);}
 .sponsor-block#bugbuster { background-image: url(/img/sponsors/bugbuster.png);}
 .sponsor-block#facebook { background-image: url(/img/sponsors/facebook.png);}
+.sponsor-block#atlassian { background-image: url(/img/sponsors/atlassian.png);}
 .sponsor-block#nokia { background-image: url(/img/sponsors/nokia.png);}
 
 .sponsor-block#github { background-image: url(/img/sponsors/github.png);}
@@ -288,3 +289,31 @@ body .speaker.hover {background-position: 15px -136px !important;  }
 
 .sponsor-block#mozilla { background-image: url(/img/sponsors/mozilla.png);}
 
+
+
+
+#schedule h4 { font-weight: bold; line-height: 1.2; margin-bottom: 0px; height: auto;}
+
+
+
+
+table.schedule { width: 100%; padding: 0px; border-spacing:0px; margin: 32px 0px; }
+table.schedule td {  border-bottom: 1px solid #b5b5b5; padding: 6px; font-size: 12px; text-align: center; background: white;}
+table.schedule td.time { background: #f6f6f6;}
+table.schedule td.start, table.schedule td.cont { border-bottom:0px; }
+
+td.time, td.tracka, td.trackb, td.trackc { border-right: 1px solid #b5b5b5}
+td.time { border-left: 1px solid #ebebeb}
+table.schedule td.tracka, table.schedule td.trackb, , table.schedule td.trackc { width: 216px; text-align: left; font-size: 12px;}
+td.time { width: 75px; font-weight: bold}
+table.schedule th { background: #fffde1; padding: 8px 0px; font-size: 15px; text-align: center; font-weight: bold;}
+td.tracka a { font-weight: bold;}
+h3 { border-bottom: 1px solid #b5b5b5; font-size: 28px;}
+hr {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    margin: 24px 0px; 
+    text-align: center;
+}
