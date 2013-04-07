@@ -247,6 +247,7 @@ a#rtt { position: fixed; bottom: 12px; right: 12px; display: block; font-size: 1
 #sullivan { background: url(/img/speakers/sullivan.png) -120px 0px no-repeat;}
 #schmidt { background: url(/img/speakers/schmidt.png) -120px 0px no-repeat;}
 #wittens { background: url(/img/speakers/wittens.png) -120px 0px no-repeat;}
+#vanderzee { background: url(/img/speakers/vanderzee.png) -120px 0px no-repeat;}
 
 
 #job { background: url(/img/trainers/job.png) -120px 0px no-repeat;}
@@ -298,12 +299,12 @@ body .speaker.hover {background-position: 15px -136px !important;  }
 
 
 table.schedule { width: 100%; padding: 0px; border-spacing:0px; margin: 32px 0px; }
-table.schedule td {  border-bottom: 1px solid #b5b5b5; padding: 6px; font-size: 12px; text-align: center; background: white;}
-table.schedule td.time { background: #f6f6f6;}
+table.schedule td {  border-bottom: 1px solid #b5b5b5; padding: 6px; font-size: 12px; text-align: center; background: white; width: 209px;}
+table.schedule td.time { background: #f6f6f6; width:75px;}
 table.schedule td.start, table.schedule td.cont { border-bottom:0px; }
 
-td.time, td.tracka, td.trackb, td.trackc { border-right: 1px solid #b5b5b5}
-td.time { border-left: 1px solid #ebebeb}
+td.time, td.tracka, td.trackb, td.trackc { border-right: 1px solid #b5b5b5; width: 209px;}
+td.time { border-left: 1px solid #ebebeb; width:75px;}
 table.schedule td.tracka, table.schedule td.trackb, , table.schedule td.trackc { width: 216px; text-align: left; font-size: 12px;}
 td.time { width: 75px; font-weight: bold}
 table.schedule th { background: #fffde1; padding: 8px 0px; font-size: 15px; text-align: center; font-weight: bold;}
@@ -317,3 +318,9 @@ hr {
     margin: 24px 0px; 
     text-align: center;
 }
+
+
+
+
+
+table.schedule td.closed { background: #ebebeb;}
