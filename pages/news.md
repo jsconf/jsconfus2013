@@ -7,6 +7,13 @@ this.id = 'news';
 
 # News
 
+## [Track B Registration Now Open](/trackb)
+
+One of the most unique components of JSConf US has always been our blend of curated content (Track A - [Yammer Track](http://2013.jsconf.us/schedule)) and our amazing attendee submitted content (Track B - [SpringSource Track](http://2013.jsconf.us/schedule)). Some of the greatest talks from JSConf US have come from the Track B line up and its not surprising once you look at the amazing things everyone is doing. The registration process for Track B is being done, much like it always has, on a first come, first speaking basis - meaning if you are the first to the slot (and provide all the necessary information), then you are speaker for that slot. Your talk can be about anything so long as it conforms to the [Code of Conduct](http://jsconf.com/codeofconduct) AND is being presented by a ticketed JSConf US Attendee(s).
+
+
+- - -
+
 ## [Changing the Game - Results Of #15ForAda](/5kforada)
 
 [JSConf US 2013](http://2013.jsconf.us) attendees and organizers raised $5,000 for the Ada Initiative, who advised the organizers on how to attract more women and improve diversity overall. Attendees contributed $2,550 directly, and the JSConf organizational team matched 50% of attendee donations, as well as donating a further $1,175 to bring the total to $5,000. The JSConf organizers hope to set a strong precedent for other conferences by becoming an active agent for positive social change. [Read all about how, why, and the outcome from our #5kForAda Campaign](/5kforada).
@@ -15,7 +22,7 @@ this.id = 'news';
 
 ## [The #15ForAda Campaign](/15forada)
 
-Read all about support and sponsorship of the Ada Initiative as part of the JSConf US 2013 ticket sales. We want to encourage people to help by tweeting/facebook/g+'ing the reasons they support diversity in computing with the hashtag #15forada. 
+Read all about support and sponsorship of the Ada Initiative as part of the JSConf US 2013 ticket sales. We want to encourage people to help by tweeting/facebook/g+'ing the reasons they support diversity in computing with the hashtag #15forada.
 
 - - -
 
@@ -35,7 +42,7 @@ One of the most exciting and often complained about items of JSConf is the scarc
 
 ## [Call For Speakers](/call-for-speakers)
 
-Introducing a brand new format for this year's call for speakers, we will have a day of "alumni" speakers that are [selected based on your votes](https://docs.google.com/spreadsheet/viewform?formkey=dGFrYTZZNEpVWkI3QVdXMi1KUldGTlE6MQ). We will also have a day of all new speakers driven by our standard call for speakers process ([now open](https://docs.google.com/spreadsheet/viewform?formkey=dHJ5SXJSNUhpeTA4eEE1b216amoxaGc6MA)). 
+Introducing a brand new format for this year's call for speakers, we will have a day of "alumni" speakers that are [selected based on your votes](https://docs.google.com/spreadsheet/viewform?formkey=dGFrYTZZNEpVWkI3QVdXMi1KUldGTlE6MQ). We will also have a day of all new speakers driven by our standard call for speakers process ([now open](https://docs.google.com/spreadsheet/viewform?formkey=dHJ5SXJSNUhpeTA4eEE1b216amoxaGc6MA)).
 
 - - -
 
