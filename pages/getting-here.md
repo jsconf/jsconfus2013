@@ -1,0 +1,80 @@
+<%
+this.layout = 'default';
+this.title = 'JSConf US 2013 :: Getting to (and from) JSConf US 2013';
+this.id = 'venue';
+%>
+
+# Getting to and from JSConf US 2013
+
+The Omni Amelia Island Plantation Resort is on Amelia Island in northeast Florida, just across the St. Marys River from Georgia and adjacent to the historic city of Fernandina.
+
+The resort overlooks the azure blue waters of the Atlantic Ocean on the east and the Intracoastal Waterway on the west. Though private, secluded and protected by a gated entry, we're also very convenient.
+
+It is just a short 45 minute drive from downtown Jacksonville, and 29 miles from Jacksonville International Airport. To make your journey to JSConf a little nicer, Nokia is sponsoring airport shuttles to and from Jacksonville International Airport (JAX) and the Omni Amelia Island for you. Please review the schedule below and ensure you understand how this will work before arriving at JAX as you might need to wait for a bus OR find other means of transportation based on your time of arrivals/departures. We have tried to use the information you provided us during activity registration to cover as many people as possible. If you have any questions, please post them to our [G+ community](https://plus.google.com/communities/108690140179099971045).
+
+### The Nokia Airport Shuttles
+
+On May 28<sup>th</sup>, 2013, we will have shuttles leaving Jacksonville Airport (JAX) every 45 minutes headed to the Amelia Island resort. These shuttles will be loading passengers at the **Pre-Arranged Commercial Transportation** area, on the North side of the airport. If you are just entering the baggage claim area, this will be to your left and at the end of baggage claim. Please use the map below as a fairly good guide for your to find the bus station.
+
+![Map of Jacksonville Airport and the bus loading zone](/img/jax.png)
+
+The bus will **depart** from the loading zone every 45 minutes, barring traffic and other delays. We will have staff at the airport to assist for part of the day, but not necessarily the whole day. If you get lost, in the middle of the baggage claim section there is an information desk that will gladly point you in the way of the **Pre-arranged Commercial Transportation**. The schedule for **BUS DEPARTURES FROM JACKSONVILLE AIRPORT** on May 28<sup>th</sup> (all in local time - EST) is:
+
+<table class='busschedule'>
+<tr><td>10:15 AM</td><td>3:30 PM</td></tr>
+
+<tr><td>11:00 AM</td><td>4:15 PM</td></tr>
+<tr><td>11:45 AM</td><td>5:00 PM</td></tr>
+<tr><td>12:30 PM</td><td>5:45 PM</td></tr>
+<tr><td>1:15 PM</td><td>6:30 PM</td></tr>
+<tr><td>2:00 PM</td><td>7:15 PM</td></tr>
+<tr><td>2:45 PM</td><td>8:00 PM</td></tr>
+</table>
+
+After the conference is over, we are happy to provide similar transportation back to Jacksonville International Airport (JAX). The loading zone for the that bus will be located just outside of the main hotel lobby. It will **depart** from the hotel every hour, on the hour and will take roughly 45 minutes to get to the airport and unload from the bus. **Plan accordingly based on your specific departure time**.
+
+
+
+### Driving Directions
+
+From the North:
+Take I-95 South to Exit 373, (Route A1A East).  Go East 11.2 miles to Amelia Island Parkway, (turn right at first traffic light, just over Intracoastal Waterway Bridge).  Go 3.4 miles to traffic light and turn right.  Go .7 miles to the round-about and follow Route A1A South.  Go 2.7 miles to resort entrance on the left, (third round-about on left).  Follow signs to "Check-In"
+
+From The West:
+Take I-10 East to I-95 North to Exit 373 (Route A1A East).  Go East 11.2 miles to Amelia Island Parkway, (turn right at 1st traffic light, just over Intracoastal Waterway Bridge).  Go 3.4 miles to traffic light and turn right.  Go .7 miles to the round-about and follow Route A1A South.  Go 2.7 miles to resort entrance on the left, (third round-about on left).  Follow signs to "Check-In"
+
+From The South:
+Take I-95 North to Exit 373 (Route A1A East).  Go East 11.2 miles to Amelia Island Parkway, (turn right at 1st traffic light, just over Intracoastal Waterway Bridge).  Go 3.4 miles to traffic light and turn right.  Go .7 miles to the round-about and follow Route A1A South.  Go 2.7 miles to resort entrance on the left, (third round-about on left).  Follow signs to "Check-In"
+
+From Jacksonville International Airport:
+Take I-95 North to Exit 373 (Route A1A East).  Go East 11.2 miles to Amelia Island Parkway, (turn right at 1st traffic light, just over Intracoastal Waterway Bridge).  Go 3.4 miles to traffic light and turn right.  Go .7 miles to the round-about and follow Route A1A South.  Go 2.7 miles to resort entrance on the left, (third round-about on left).  Follow signs to "Check-In"
+
+Scenic Route:
+Take I-95 to Exit 358A.  Go East on Route 105-(North Heckscher Drive) and follow the signs to Amelia Island.
+
+Airports
+Jacksonville International Airport - 29 miles
+Fernandina Beach Municipal Airport - 4 miles
+
+Transportation to/from Jacksonville International Airport
+
+The Omni Amelia Island Plantation Transportation department provides direct service to and from Jacksonville International Airport with no additional hotel stops. 72 hour advance reservations are required and can be made by calling 904-261-6161. Reservations that are requested less than 72 hours cannont be guaranteed.
+
+Roundtrip Shuttle Service
+$60 per person one way
+$45 per person one way (Resident Rate)
+
+Town Car Service
+$124 one way up to 2 people
+
+Limousine Service
+$296 one way up to 4 people
+
+McGill Airport
+$10 per person one way
+
+Other Transportation
+Shuttle service to Amtrak/Bus Station $59.00 per person one way
+Jacksonville Cruise Terminal $42.00 per person one way
+
+** Airport rates are inclusive of 10% service charge, fuel surcharge and airport fees. Tax not included.
