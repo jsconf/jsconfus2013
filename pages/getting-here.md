@@ -14,7 +14,7 @@ It is just a short 45 minute drive from downtown Jacksonville, and 29 miles from
 
 ### The Nokia Airport Shuttles
 
-On May 28<sup>th</sup>, 2013, we will have shuttles leaving Jacksonville Airport (JAX) every 45 minutes headed to the Amelia Island resort. These shuttles will be loading passengers at the **Pre-Arranged Commercial Transportation** area, on the North side of the airport. If you are just entering the baggage claim area, this will be to your left and at the end of baggage claim. Please use the map below as a fairly good guide for your to find the bus station.
+On May 28<sup>th</sup>, 2013, we will have shuttles leaving Jacksonville Airport (JAX) every 45 minutes headed to the Amelia Island resort. These shuttles will be loading passengers at the **Pre-Arranged Commercial Transportation** area, on the North side of the airport. If you are just entering the baggage claim area, this will be to your left and at the end of baggage claim. Please use the map below as a fairly good guide for your to find the bus station. The bus will have the [community JS logo](https://github.com/voodootikigod/logo.js) clearly displayed on the bus, so be sure to look for that! If you find a bus with the [@horse_js](https://twitter.com/horse_js) logo, we have no idea where that bus will go and leave it up to the reader to decide their own course of action.
 
 ![Map of Jacksonville Airport and the bus loading zone](/img/jax.png)
 
