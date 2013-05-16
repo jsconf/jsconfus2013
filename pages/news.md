@@ -7,6 +7,12 @@ this.id = 'news';
 
 # News
 
+## [Getting To and From JSConf](/getting-here)
+
+ To make your journey to JSConf a little nicer, Nokia is sponsoring airport shuttles to and from Jacksonville International Airport (JAX) and the Omni Amelia Island for you. Please review our schedules and details and ensure you understand how this will all work before arriving at JAX as you might need to wait for a bus OR find other means of transportation based on your time of arrivals/departures.
+
+- - -
+
 ## [Track B Registration Now Open](/trackb)
 
 One of the most unique components of JSConf US has always been our blend of curated content (Track A - [Yammer Track](http://2013.jsconf.us/schedule)) and our amazing attendee submitted content (Track B - [SpringSource Track](http://2013.jsconf.us/schedule)). Some of the greatest talks from JSConf US have come from the Track B line up and its not surprising once you look at the amazing things everyone is doing. The registration process for Track B is being done, much like it always has, on a first come, first speaking basis - meaning if you are the first to the slot (and provide all the necessary information), then you are speaker for that slot. Your talk can be about anything so long as it conforms to the [Code of Conduct](http://jsconf.com/codeofconduct) AND is being presented by a ticketed JSConf US Attendee(s).
