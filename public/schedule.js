@@ -80,7 +80,7 @@ var schedule = [{
   "title": "Break",
   "description": null,
   "speaker": {
-    "name": "",
+    "name": "None",
     "description": null
   },
   "location": "Yammer Track",
@@ -113,7 +113,7 @@ var schedule = [{
   "title": "Break",
   "description": null,
   "speaker": {
-    "name": "",
+    "name": "None",
     "description": null
   },
   "location": "Yammer Track",
@@ -174,7 +174,7 @@ var schedule = [{
   "title": "Break",
   "description": null,
   "speaker": {
-    "name": "",
+    "name": "None",
     "description": null
   },
   "location": "Yammer Track",
@@ -229,7 +229,7 @@ var schedule = [{
   "title": "Break",
   "description": null,
   "speaker": {
-    "name": "",
+    "name": "None",
     "description": null
   },
   "location": "Yammer Track",
@@ -262,7 +262,7 @@ var schedule = [{
   "title": "Break",
   "description": null,
   "speaker": {
-    "name": "",
+    "name": "None",
     "description": null
   },
   "location": "Yammer Track",
