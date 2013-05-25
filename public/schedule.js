@@ -160,8 +160,8 @@ var schedule = [{
   "ending_at": "2013/05/31 10:30:00"
 }, {
   "uid": "JSCONF2013-A115",
-  "title": "PLV8",
-  "description": "Selena was entered into our reverse call for speakers process with the topic description for the amazing PLV8, the V8 engine JavaScript procedural langauge for PostgreSQL. She is currrently finalizing her talk description. Stay tuned.",
+  "title": "Schema liberation with JSON and PLV8",
+  "description": "JSON is the lingua franca of the web. Postgres supports JSON natively and the PLV8 Javascript engine as an extension. Full Javascript is supported inside the database, including direct access to tables and important database features.\nAnd, developer-friendly features make it incredibly easy to transform your existing, normalized schemas into liberated JSON ones!\nTour of what putting a document store inside of Postgres looks like, including a look at a production use-case from Mozilla. crash-stats.mozilla.com is backed by a 2 TB Postgres database cluster that's adding about about 5 GB of JSON per week.",
   "speaker": {
     "name": "Selena Deckelmann",
     "description": "Selena is a data architect at Mozilla who keeps chickens in Portland, OR and likes Postgres. She's an internationally-recognized speaker on open source, computer science education and databases."
