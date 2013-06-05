@@ -279,7 +279,7 @@ function setTime() {
 	var now = +(new Date());
 	if (now >= TRIGGER) {
 		$("#days").html("JSCONF");
-		$("#daystep").html("FUCK YEA");
+		$("#daystep").html("ROCKED");
 		if (updateTimer)
 			clearInterval(updateTimer);
 		return false;
@@ -406,7 +406,7 @@ $(function () {
     });
     $(".speaker").hover(function () {
     	$(this).addClass("hover");
-    }, function () { 
+    }, function () {
     	$(this).removeClass("hover");
     })
 
