@@ -54,6 +54,7 @@ Thank you to everyone that has been a part of JSConf over the last five years. T
 
 * [Adam Brault Just a Person](http://adambrault.com/post/52004360603/just-a-person)
 * [James Long's My JSConf Diary](http://jlongster.com/My-JSConf-Diary)
+* [Rey Bango's It's About Family and Friends](http://blog.reybango.com/2013/06/04/jsconf-its-about-friends-and-family/)
 * [Matthew Bergman's Awesome JSConf Photo Collection](http://www.flickr.com/photos/matthewbergman/sets/72157633810733840/)
 * [Scott Plumlee's Day 1 Recap](http://plumlee.org/archive/2013/05/30/jsconf-2013-day-1/)
 * [Scott Plumlee's Day 2 and 3 Recap](http://plumlee.org/archive/2013/06/08/jsconf-2013-days-2-3/)
