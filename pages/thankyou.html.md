@@ -65,6 +65,8 @@ Thank you to everyone that has been a part of JSConf over the last five years. T
 * [Bryan Hughes' JSConf Day 3: Ideas Abound](http://theoreticalideations.com/2013/06/07/jsconf-day-3-ideas-abound/)
 * [JSConf US 2013 NodeBots Event Write Up](http://nodebots.io/events/jsconf2013.html)
 * [Hannah Holzmann's JSConf 2013](http://hannahholzmann.com/js-conf-2013/)
+* [Ray Daly's JSConf Differences Since 2009](http://blog.abcedmindedness.com/2013/05/jsconf-differences-since-2009.html)
+* [Ray Daly's JSConf 2013 in Review](http://blog.abcedmindedness.com/2013/06/jsconf-2013-in-review.html)
 * [Dan Lee's Should You Go To JSConf? Yes](https://medium.com/the-javascript-collection/95c0f67eb6ca)
 * [MS Open Tech, W3C Pointer Events and the JavaScript Community at JSConf 2013](http://msopentech.com/blog/2013/06/06/ms-open-tech-w3c-pointer-events-and-the-javascript-community-at-jsconf-2013/)
 * [Ben Gillies' Notes From JSConf](http://bengillies.tiddlyspace.com/#%23jsconf)
